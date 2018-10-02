@@ -1,0 +1,36 @@
+{
+   "DefaultMessage":{
+      "UUID":"AA995F0C-516F-48FE-B1AA-3D8515ADAB9B",
+      "Company":"CMNet",
+      "Application":"Fatura",
+      "VersionApplication":"1.000",
+      "CompanyId":"30",
+      "PropertyId":"01",
+      "ModuleId":"11",
+      "CNPJ":"27729176000135",
+      "Endpoint":"InvoiceCancellation"
+   },
+   "HotelInvoice":{
+      "Id":"8976",
+      "CustomerVendorInternalId":"14243",
+      "IssueDate":"07/08/2018",
+      "Value":"378",
+      "HotelInvoiceCancellation":"1",
+      "ListOfRetailSales":[
+         {
+            "RetailSalesInternalId":"33156",
+            "ModuleId":"25"
+         }
+      ],
+      "ListOfAccountReceivableInformation":[
+         {
+            "Value":"378",
+            "DueDate":"22/08/2018"
+         }
+      ],
+      "SalesChargeInformation":{
+         "CustomerVendorInternalId":"",
+         "SalesChargeDiscount":"0"
+      }
+   }
+}
